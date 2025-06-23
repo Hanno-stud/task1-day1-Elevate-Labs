@@ -1,11 +1,16 @@
 # 🚢 Titanic Dataset - Data Cleaning & Preprocessing<br/>  
 
-1 File, 2 
-- [x]  Google Colab(.ipynb) & <br/>
-- [x]  Python(.py) version
+> 🧾 **Note:**  
+> The **Same Code** is provided in two executable formats for your convenience:  
+> 
+> - 💻 **Google Colab** (`.ipynb` file) — Jupyter Notebook with step-by-step cells, ideal for interactive learning.  
+> - 🐍 **Python Script** (`.py` file) — A single Python script, perfect for terminal or automated execution.  
+> 
+> 👉 You can choose either format based on your preferred working environment.
 
 <br/>
 <br/>
+
 Welcome to this **comprehensive, step-by-step, hands-on project** on **data cleaning and preprocessing using the Titanic Dataset.**
 
 This repository is part of an **AI & ML Internship task** and is designed to:
