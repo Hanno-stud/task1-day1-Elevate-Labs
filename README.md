@@ -1,14 +1,4 @@
 # 🚢 Titanic Dataset - Data Cleaning & Preprocessing<br/>  
-
-> 🧾 **Note:**  
-> The **Same Code** is provided in two executable formats for your convenience:  
-> 
-> - 💻 **Google Colab** (`.ipynb` file) — Jupyter Notebook with step-by-step cells, ideal for interactive learning.  
-> - 🐍 **Python Script** (`.py` file) — A single Python script, perfect for terminal or automated execution.  
-> 
-> 👉 You can choose either format based on your preferred working environment.
-
-<br/>
 <br/>
 
 Welcome to this **comprehensive, step-by-step, hands-on project** on **data cleaning and preprocessing using the Titanic Dataset.**
@@ -34,6 +24,21 @@ This repository is part of an **AI & ML Internship task** and is designed to:
 - **Dataset:** Titanic Dataset
 - **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - **Manual Step:** Please download `Titanic-Dataset.csv` from the link and place it in the **same project folder**.
+
+<br/>
+<br/>
+
+> 🧾 **Note:**  
+> The **Same Code** is provided in two executable formats for your convenience:  
+> 
+> - 💻 **[Google Colab](https://colab.research.google.com/)** (`.ipynb` file) — Jupyter Notebook with step-by-step cells, ideal for interactive learning.  
+> - 🐍 **[Python](https://www.python.org/) Script** (`.py` file) — A single Python script, perfect for terminal or automated execution.  
+<br/>
+
+> 👉 This gives the flexibility for both coders who prefer *`script files`* and learners who love the *`interactive notebook environment`*.
+
+<br/>
+<br/>
 
 ---
 
@@ -283,15 +288,5 @@ This checklist ensures the project is robust, reproducible, user-friendly, and o
 - [ ] Wrap the project as an installable Python package or CLI tool
 - [ ] Dockerize or virtualize environment for deployment
 
-
-
-
-<hr/>
-🧾 <b>Note:</b>
-To help different kinds of users, I've included two code formats:
-
-1. **`titanic_preprocessing.py`** — A single Python script file containing the **entire workflow in one place**, perfect for automation or terminal-based execution.
-
-2. **`task1_day1_elevate_labs.ipynb`** — A **Jupyter Notebook file** with all code blocks organized into **separate cells**, ideal for learning, experimenting, and visual output viewing.
-
-> This gives the flexibility for both coders who prefer script files and learners who love the interactive notebook environment.
+---
+===
