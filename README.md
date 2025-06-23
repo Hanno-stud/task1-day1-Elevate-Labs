@@ -152,6 +152,7 @@ print(df.isnull().sum())
 ```
 
 ### 🖥️ Console Output: Dataset Head, Info, and Null Values
+[data-preprocessing-step-2](https://github.com/user-attachments/assets/b51e177a-1070-4579-b6ba-ba045aa34e80)
 
 ```text
 --- Missing Values Before Handling ---
@@ -197,9 +198,15 @@ dtype: int64
 🔹 Step 3: Display Mean and Median for Age and Fare <br/>
 🔹 Step 4: Handle Missing Values <br/>
 🔹 Step 5: Encode Categorical Features <br/>
-🔹 Step 6: Feature Scaling <br/>
-🔹 Step 7: Visualize Outliers <br/>
-🔹 Step 8: Remove Outliers <br/>
+🔹 Step 6 → What You’ll Learn <br/>
+
+> ✦ Data Cleansing <br/>
+> ✦ Handling Nulls <br/>
+> ✦ Encoding <br/>
+> ✦ Feature Scaling <br/>
+
+
+
 <br/>
 <br/>
 
