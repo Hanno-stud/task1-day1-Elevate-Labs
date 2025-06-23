@@ -33,8 +33,7 @@ This repository is part of an **AI & ML Internship task** and is designed to:
 > 
 > - 💻 **[Google Colab](https://colab.research.google.com/)** (`.ipynb` file) — Jupyter Notebook with step-by-step cells, ideal for interactive learning.  
 > - 🐍 **[Python](https://www.python.org/) Script** (`.py` file) — A single Python script, perfect for terminal or automated execution.  
-<br/>
-
+>
 > 👉 This gives the flexibility for both coders who prefer *`script files`* and learners who love the *`interactive notebook environment`*.
 
 <br/>
@@ -289,4 +288,3 @@ This checklist ensures the project is robust, reproducible, user-friendly, and o
 - [ ] Dockerize or virtualize environment for deployment
 
 ---
-===
