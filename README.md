@@ -200,10 +200,10 @@ dtype: int64
 🔹 Step 5: Encode Categorical Features <br/>
 🔹 Step 6 → What You’ll Learn <br/>
 
-> ✦ Data Cleansing <br/>
-> ✦ Handling Nulls <br/>
-> ✦ Encoding <br/>
-> ✦ Feature Scaling <br/>
+> 📊 Data Cleansing <br/>
+> 📊 Handling Nulls <br/>
+> 📊 Encoding <br/>
+> 📊 Feature Scaling <br/>
 
 
 
